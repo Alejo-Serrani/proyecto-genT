@@ -1,0 +1,75 @@
+main{
+    font-family: 'Ruwudu', serif;
+    margin-left: 10%;
+    color: rgb(29, 37, 84);
+    margin-right: 10%;
+    font-size: 150%;
+    margin-bottom: 10%;
+}
+header{
+background-color: white;
+top: 0%;
+position: sticky;
+}
+#logo_header{
+    width: 30%;
+    margin-right: 30%;
+}
+#div_header{
+      display: inline-block;
+    margin-left: 8%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+nav{
+    margin-bottom: 5%;
+    border-bottom: 3px solid rgb(29, 37, 84)
+}
+.redes{
+    width: 4%;
+    margin-right: 5%;
+}
+#atencion{
+    font-size: 150%;
+    text-align: center;
+}
+#boton_inicio{
+    text-decoration: none;
+    border: 2px solid rgb(29, 37, 84);
+    color: rgb(29, 37, 84);
+    border-radius: 10px;
+    padding: 0.5%;
+}
+#iniciar{
+    text-align: center;
+    margin-top: 5%;    
+}
+#boton_inicio:hover{
+    background-color: rgb(29, 37, 84);
+    color: rgb(255, 255, 255);
+}
+footer{
+    background-color: rgb(29, 37, 84);
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 110%;
+}
+.ingresantes_estudiantes{
+    color: white;
+    font-size: 150%;
+    padding-top: 10%;
+}
+.row{
+    margin-bottom: 2%;
+}
+#contacto{
+    padding-bottom: 10%;
+    margin-left: 7%;
+    margin-top: 8%;
+}
+#contacto p{
+    font-size: 110%;
+    color: white;
+}
